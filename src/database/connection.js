@@ -5,10 +5,10 @@ import sql from 'mssql'
 
 const dbsettings = {
 
-     user: 'portodivino',
-     password: '4u2eruvkpu9',
-     server: 'sqlserver.portodivino.com.br',
-     database: 'portodivino',
+     user: ''',
+     password: ''',
+     server: ''',
+     database: '',
      options:{
         encrypt: true,
         trustServerCertificate: true
